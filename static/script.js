@@ -12,6 +12,7 @@ document.getElementById("searchForm").addEventListener("submit", function (event
     { id: "202401", name: "김민지", email: "202401@school.edu", password: "abcd1234" },
     { id: "202402", name: "이준호", email: "202402@school.edu", password: "qwer5678" },
     { id: "202403", name: "박서연", email: "202403@school.edu", password: "zxcv9012" },
+    { id: "202404", name: "박시연", email: "202404@school.edu", password: "zxcv9013" },
   ];
 
   // 입력값에 해당하는 학생 찾기
